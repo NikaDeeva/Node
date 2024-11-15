@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node script.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Nika Dieieva <deeva.dasha1409@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
 }
